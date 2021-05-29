@@ -23,16 +23,21 @@ surfaces in a physically accurate and visually evocative manner.
 ## Methodology
 I developed an independent rendering and visualization methodology for thin-film and bubble simulations. These methodologies could be adapted to represent various types of simulations, ranging from point-set data to mesh-based simulations.
 
+## Videos
+{% include youtubePlayer.html id=__1VjKF-gTk %}
+
+
 ## Still Results and Works in Progress
 ### PBRT Shader Tests
 ![Dragon](/dragon.png)
 ![Kangaroo](/kangaroo.png)
 ![Bubble](/material-testball.png)
+
 ### Houdini Bubble Renderings
-
-## Videos
-{% include youtubePlayer.html id=__1VjKF-gTk %}
-
+![Render1](/Active_Render.0150.0.jpg)
+![Render2](/Active_Render.0694.0.jpg)
+![Render3](/H18-F5-19.png)
+![Render4](/S3-IR5-SpectralOefner271.png)
 ## Awards
 
 ### Grand Prize for Best Undergraduate Research Video 
