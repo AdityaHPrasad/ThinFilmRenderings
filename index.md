@@ -30,11 +30,10 @@ I developed an independent rendering and visualization methodology for thin-film
 
 ## Videos
 {% include youtubePlayer.html id=__1VjKF-gTk %}
-{% include youtubePlayer.html id=qjxJN36QFb4 %}
-{% include youtubePlayer.html id=s5fE-3E_KeY %}
+
 
 ## Awards
 
 ### Grand Prize for Best Undergraduate Research Video 
 [MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
-{% include youtubePlayer.html id=ncq-aHAacBM %}
+
