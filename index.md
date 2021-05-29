@@ -30,8 +30,6 @@ I developed an independent rendering and visualization methodology for thin-film
 
 ## Videos
 
-{% include youtubePlayer.html id=__1VjKF-gTk %}
-
 
 ## Awards
 
