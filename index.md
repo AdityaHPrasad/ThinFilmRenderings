@@ -26,7 +26,7 @@ I developed an independent rendering and visualization methodology for thin-film
 ## Still Results and Works in Progress
 ### PBRT Shader Tests
 ![Dragon](/dragon.png)
-![Kangaroo](/material-testball (2).png)
+![Kangaroo](/kangaroo.png)
 ![Bubble](/material-testball.png)
 ### Houdini Bubble Renderings
 
