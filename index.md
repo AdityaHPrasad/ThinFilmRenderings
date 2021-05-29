@@ -1,9 +1,9 @@
 # Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations
+<img src="./images/equation-1.gif" style="display: block; margin: auto;" />
 
 ## Papers
-[Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
-
-[Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()
+- *research paper:* [Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
+- *undergraduate thesis paper:* [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()
 
 
 ## Abstract
@@ -21,7 +21,21 @@ component of a surface shader, I am able to obtain photorealistic renderings of 
 vortical swirls and turbulent surface flows on oscillating and deforming
 surfaces in a physically accurate and visually evocative manner.
 
-## Still Results
+## Methodology
+I developed an independent rendering and visualization methodology for thin-film and bubble simulations. These methodologies could be adapted to represent various types of simulations, ranging from point-set data to mesh-based simulations.
+
+## Still Results and Works in Progress
+### PBRT
+
+### Houdini
 
 ## Videos
 {% include youtubePlayer.html id=__1VjKF-gTk %}
+{% include youtubePlayer.html id=qjxJN36QFb4 %}
+{% include youtubePlayer.html id=s5fE-3E_KeY %}
+
+## Awards
+
+### Grand Prize for Best Undergraduate Research Video 
+[MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
+{% include youtubePlayer.html id=ncq-aHAacBM %}
