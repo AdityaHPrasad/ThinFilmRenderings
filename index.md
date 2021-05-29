@@ -3,9 +3,9 @@ You can use the [editor on GitHub](https://github.com/AdityaHPrasad/ThinFilmRend
 # Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations
 
 ## Papers
-[Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
+[Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)\
 
-[Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()
+[Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()\
 
 
 ## Abstract
