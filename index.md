@@ -1,7 +1,3 @@
----
-youtubeId: __1VjKF-gTk
----
-
 # Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations
 
 ## Papers
@@ -28,4 +24,4 @@ surfaces in a physically accurate and visually evocative manner.
 ## Still Results
 
 ## Videos
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=__1VjKF-gTk %}
