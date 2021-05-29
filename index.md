@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/AdityaHPrasad/ThinFilmRend
 
 ## Papers
 [Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
+
 [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()
 
 
