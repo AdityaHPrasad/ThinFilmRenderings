@@ -36,6 +36,12 @@ The technical contributions of these methodologies are:
 Rendering results (included in [SIGGRAPH 2021 Trailer](https://www.youtube.com/watch?v=Ros7ZXqLbFg))
 <iframe width="560" height="315" src="https://www.youtube.com/embed/__1VjKF-gTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Artistic Rendering of Irregular Bubble Evolution
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjxJN36QFb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Particle Visualization of Irregular Bubble Evolution
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s5fE-3E_KeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Still Results and Works in Progress
 ### PBRT Shader Tests
 ![Dragon](/dragon.png)
@@ -55,3 +61,4 @@ Rendering results (included in [SIGGRAPH 2021 Trailer](https://www.youtube.com/w
 ## Awards
 ### Grand Prize for Best Undergraduate Research Video 
 [MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ncq-aHAacBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
