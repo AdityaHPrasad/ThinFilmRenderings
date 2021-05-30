@@ -35,8 +35,7 @@ The technical contributions of these methodologies are:
 * High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
 
 ## Videos
-
-{% include youtubePlayer.html id=__1VjKF-gTk %}
+{% youtube __1VjKF-gTk %}
 
 ## Still Results and Works in Progress
 ### PBRT Shader Tests
