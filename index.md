@@ -23,14 +23,19 @@ surfaces in a physically accurate and visually evocative manner.
 ## Methodology
 I developed an independent rendering and visualization methodology for thin-film and bubble simulations. These methodologies could be adapted to represent various types of simulations, ranging from point-set data to mesh-based simulations.
 
+The visualization involves key processes:
+1. Mathematical modelling of thin-film interference
+2. Implementation of a physically based surface shader representing the thin-film reflectance model
+3. Implementation of methods to visualize point set surfaces as physically accurate representations of thin-film fluids
+4. Rendering and lighting workflows to produce evocative and accurate results
+
 The technical contributions of these methodologies are:
 * Recreating photorealistic iridescent colours based on localized thin-film thickness distribution
 * Visualizations of dynamic point-set surfaces with a focus on geometric representation and temporal coherence
 * High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
 
-
-
 ## Videos
+
 {% include youtubePlayer.html id=__1VjKF-gTk %}
 
 ## Still Results and Works in Progress
