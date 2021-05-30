@@ -4,8 +4,7 @@
 - **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations](https://github.com/AdityaHPrasad/ThinFilmRenderings/blob/gh-pages/Aditya_Thesis_Draft4.pdf)
 
 ## Awards
-### Grand Prize for Best Undergraduate Research Video 
-[MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
+**Grand Prize for Best Undergraduate Research Video:** [MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncq-aHAacBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
