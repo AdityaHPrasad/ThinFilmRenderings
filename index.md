@@ -49,8 +49,12 @@ Rendering results included in SIGGRAPH 2021 Trailer
 ![Render2](/Active_Render.0694.0.jpg)
 ![Render3](/H18-F5-19.png)
 ![Render4](/S3-IR5-SpectralOefner271.png)
-## Awards
+![Render5](/5_square.jpg)
+![Render6](/6_rt.jpg)
+![Render7](/burst_teaser.jpg.png)
 
+
+## Awards
 ### Grand Prize for Best Undergraduate Research Video 
 [MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
 
