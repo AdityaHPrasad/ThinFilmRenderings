@@ -23,6 +23,13 @@ surfaces in a physically accurate and visually evocative manner.
 ## Methodology
 I developed an independent rendering and visualization methodology for thin-film and bubble simulations. These methodologies could be adapted to represent various types of simulations, ranging from point-set data to mesh-based simulations.
 
+The technical contributions of these methodologies are:
+* Recreating photorealistic iridescent colours based on localized thin-film thickness distribution
+* Visualizations of dynamic point-set surfaces with a focus on geometric representation and temporal coherence
+* High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
+
+
+
 ## Videos
 {% include youtubePlayer.html id=__1VjKF-gTk %}
 
