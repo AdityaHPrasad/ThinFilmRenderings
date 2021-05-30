@@ -33,7 +33,8 @@ The technical contributions of these methodologies are:
 3. High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
 
 ## Videos of Results
-
+Rendering results (included in [SIGGRAPH 2021 Trailer](https://www.youtube.com/watch?v=Ros7ZXqLbFg))
+{% youtube __1VjKF-gTk  %}
 
 ## Still Results and Works in Progress
 ### PBRT Shader Tests
