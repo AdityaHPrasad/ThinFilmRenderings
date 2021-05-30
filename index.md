@@ -50,7 +50,7 @@ Rendering results (included in [SIGGRAPH 2021 Trailer](https://www.youtube.com/w
 ![Render4](/S3-IR5-SpectralOefner271.png)
 ![Render5](/5_square.jpg)
 ![Render6](/6_rt.jpg)
-![Render7](/burst_teaser.jpg.png)
+![Render7](/burst_teaser.jpg)
 
 
 ## Awards
