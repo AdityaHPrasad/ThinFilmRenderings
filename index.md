@@ -30,11 +30,12 @@ The visualization involves key processes:
 4. Rendering and lighting workflows to produce evocative and accurate results
 
 The technical contributions of these methodologies are:
-* Recreating photorealistic iridescent colours based on localized thin-film thickness distribution
-* Visualizations of dynamic point-set surfaces with a focus on geometric representation and temporal coherence
-* High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
+1. Recreating photorealistic iridescent colours based on localized thin-film thickness distribution
+2. Visualizations of dynamic point-set surfaces with a focus on geometric representation and temporal coherence
+3. High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
 
-## Videos
+## Videos of Results
+Rendering results included in SIGGRAPH 2021 Trailer
 {% youtube __1VjKF-gTk %}
 
 ## Still Results and Works in Progress
