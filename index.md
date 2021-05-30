@@ -1,7 +1,7 @@
 # Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations
 ## Papers
 - **research paper:** [Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
-- **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations](https://github.com/AdityaHPrasad/ThinFilmRenderings/blob/gh-pages/Aditya_Thesis_Draft4.pdf)
+- **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()
 
 ## Abstract
 
