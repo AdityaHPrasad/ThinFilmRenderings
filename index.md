@@ -2,12 +2,12 @@
 
 ## Papers
 - **research paper:** [Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
-- **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations]()
+- **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations](/Aditya_Thesis_Draft4.pdf)
 
 
 ## Abstract
 
-This thesis introduces a methodology and workflow I developed to
+This [thesis](/Aditya_Thesis_Draft4.pdf) introduces a methodology and workflow I developed to
 visualize smoothed hydrodynamic particle based simulations for the
 research paper [’Thin-Film Smoothed Particle Hydrodynamics Fluid’
 (2021)](https://wang-mengdi.github.io/proj/thin-film-sph/), that I co-authored. I introduce a physically based rendering
