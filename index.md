@@ -36,7 +36,7 @@ The technical contributions of these methodologies are:
 
 ## Videos of Results
 Rendering results included in SIGGRAPH 2021 Trailer
-{% youtube __1VjKF-gTk %}
+{% youtube __1VjKF-gTk  %}
 
 ## Still Results and Works in Progress
 ### PBRT Shader Tests
