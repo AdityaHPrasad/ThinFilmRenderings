@@ -39,13 +39,15 @@ The technical contributions of these methodologies are:
 3. High quality animations visualizing the evolution of surface flows and rich colours in thin-film structures
 
 ## Videos of Results
-Rendering results (included in [SIGGRAPH 2021 Trailer](https://www.youtube.com/watch?v=Ros7ZXqLbFg))
+### Rendering results.
+These results were included in the [SIGGRAPH 2021 Trailer](https://www.youtube.com/watch?v=Ros7ZXqLbFg). Our bubble renders were included in this, which is a very high honour among submissions.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/__1VjKF-gTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Artistic Rendering of Irregular Bubble Evolution
+### Artistic Rendering of Irregular Bubble Evolution
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjxJN36QFb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Particle Visualization of Irregular Bubble Evolution
+### Particle Visualization of Irregular Bubble Evolution
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s5fE-3E_KeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Still Results and Works in Progress
