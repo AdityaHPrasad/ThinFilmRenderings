@@ -1,7 +1,7 @@
 # Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations
 ## Papers
 - **research paper:** [Thin-Film Smoothed Particle Hydrodynamics Fluid](https://cs.dartmouth.edu/~bozhu/papers/sph_bubble.pdf)
-- **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations](https://github.com/AdityaHPrasad/ThinFilmRenderings/blob/gh-pages/Aditya_Thesis_Draft4.pdf)
+- **undergraduate thesis paper:** [Physically Based Rendering Techniques to Visualize Thin-Film Smoothed Particle Hydrodynamics Fluid Simulations](https://github.com/AdityaHPrasad/ThinFilmRenderings/blob/gh-pages/Aditya_Thesis_Draft7.pdf)
 
 ## Awards
 **Grand Prize for Best Undergraduate Research Video:** [MAD Research: Video Competition](https://students.dartmouth.edu/ugar/news-events/highlighting-undergraduate-research/mad-research-video-competition)
@@ -10,7 +10,7 @@
 
 ## Abstract
 
-This [thesis](https://github.com/AdityaHPrasad/ThinFilmRenderings/blob/gh-pages/Aditya_Thesis_Draft4.pdf) introduces a methodology and workflow I developed to
+This [thesis](https://github.com/AdityaHPrasad/ThinFilmRenderings/blob/gh-pages/Aditya_Thesis_Draft7.pdf) introduces a methodology and workflow I developed to
 visualize smoothed hydrodynamic particle based simulations for the
 research paper [’Thin-Film Smoothed Particle Hydrodynamics Fluid’
 (2021)](https://wang-mengdi.github.io/proj/thin-film-sph/), that I co-authored. I introduce a physically based rendering
